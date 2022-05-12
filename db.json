@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "nombre": "",
+      "apellido": "",
+      "correo": "",
+      "contraseña": "",
+      "administrador": "false",
+      "user": "admin"
+    }
+  ],
+  "movies": [
+    {
+      "title": "asgsag",
+      "year": "sagsag",
+      "rated": "sagsag",
+      "runtime": "sagsag",
+      "director": "sagsas",
+      "writer": {},
+      "actors": "sagsag",
+      "category": "asgsag",
+      "language": "asgsag",
+      "synopsis": "asgsag",
+      "imdbRating": "sagsagsag",
+      "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_720x405/public/media/image/2013/01/205576-critica-django-desencadenado.jpg?itok=IhCKW7Qs",
+      "urlEspañol": "sagsagsa",
+      "urlIngles": "",
+      "response": "publicada",
+      "id": 3,
+      "favorite": "true"
+    },
+    {
+      "title": "saasg",
+      "year": "asgs",
+      "rated": "asgs",
+      "runtime": "sagsagas",
+      "director": "sagsag",
+      "writer": "sagsag",
+      "actors": "sagsag",
+      "category": "agsgsa",
+      "language": "sagssa",
+      "synopsis": "sgssa",
+      "imdbRating": "sags",
+      "image": "sasgsa",
+      "urlEspañol": "",
+      "urlIngles": "",
+      "response": "publicada",
+      "favorite": "false",
+      "id": 4
+    }
+  ]
+}
