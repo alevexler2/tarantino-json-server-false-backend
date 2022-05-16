@@ -1,12 +1,20 @@
 {
   "users": [
     {
-      "nombre": "",
-      "apellido": "",
-      "correo": "",
-      "contraseña": "",
-      "administrador": "false",
-      "user": "admin"
+      "nombre": "admin",
+      "apellido": "admin",
+      "correo": "admin@gmail.com",
+      "contraseña": "admin",
+      "admin": true,
+      "id": 1
+    },
+    {
+      "nombre": "Maximiliano",
+      "apellido": "Lezano",
+      "correo": "david.lezano@gmail.com",
+      "contraseña": "12345678",
+      "admin": false,
+      "id": 2
     }
   ],
   "movies": [
@@ -41,12 +49,12 @@
       "language": "Español",
       "synopsis": "Cuenta la historia de un esclavo liberado (Jamie Foxx) que sacrifica su vida al loable empeño de limpiar afrentas, vengar latigazos y liberar amadas.",
       "imdbRating": "8.4 IMDb",
-      "image": "https://resizer.glanacion.com/resizer/uI8aw50unzoBgasqTGOUmU56a9s=/1920x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/CQRRGBI2XZHRZEVFRGY6JXP7AE.jpg",
+      "image": "https://i.pinimg.com/originals/0c/52/dc/0c52dc47a740589b5f3461f66c807d18.jpg",
       "urlEspañol": "",
       "urlIngles": "",
       "response": "publicada",
       "id": 2,
-      "favorite": false
+      "favorite": true
     },
     {
       "title": "Django Unchained",
@@ -79,7 +87,7 @@
       "language": "Español",
       "synopsis": "Cuenta la historia de un esclavo liberado (Jamie Foxx) que sacrifica su vida al loable empeño de limpiar afrentas, vengar latigazos y liberar amadas.",
       "imdbRating": "8.4 IMDb",
-      "image": "https://pics.filmaffinity.com/Django_desencadenado-268392705-large.jpg",
+      "image": "https://indiehoy.com/wp-content/uploads/2021/06/pulp-fiction-1200x900.jpg",
       "urlEspañol": "",
       "urlIngles": "",
       "response": "publicada",
@@ -98,7 +106,7 @@
       "language": "Español",
       "synopsis": "Cuenta la historia de un esclavo liberado (Jamie Foxx) que sacrifica su vida al loable empeño de limpiar afrentas, vengar latigazos y liberar amadas.",
       "imdbRating": "8.4 IMDb",
-      "image": "https://pics.filmaffinity.com/Django_desencadenado-268392705-large.jpg",
+      "image": "https://es.web.img3.acsta.net/pictures/15/08/28/09/48/545381.jpg",
       "urlEspañol": "",
       "urlIngles": "",
       "response": "publicada",
@@ -117,7 +125,7 @@
       "language": "Español",
       "synopsis": "Cuenta la historia de un esclavo liberado (Jamie Foxx) que sacrifica su vida al loable empeño de limpiar afrentas, vengar latigazos y liberar amadas.",
       "imdbRating": "8.4 IMDb",
-      "image": "https://pics.filmaffinity.com/Django_desencadenado-268392705-large.jpg",
+      "image": "https://d.newsweek.com/en/full/873185/junlge-julia.png?w=1600&h=900&q=88&f=50246c0bb7326d0117ac34e2a5448597",
       "urlEspañol": "",
       "urlIngles": "",
       "response": "publicada",
@@ -136,7 +144,7 @@
       "language": "Español",
       "synopsis": "Cuenta la historia de un esclavo liberado (Jamie Foxx) que sacrifica su vida al loable empeño de limpiar afrentas, vengar latigazos y liberar amadas.",
       "imdbRating": "8.4 IMDb",
-      "image": "https://pics.filmaffinity.com/Django_desencadenado-268392705-large.jpg",
+      "image": "https://diariodelcineasta.com/wp-content/uploads/2016/02/hateful-eight-backdrop.jpg",
       "urlEspañol": "",
       "urlIngles": "",
       "response": "publicada",
@@ -155,7 +163,7 @@
       "language": "Español",
       "synopsis": "Cuenta la historia de un esclavo liberado (Jamie Foxx) que sacrifica su vida al loable empeño de limpiar afrentas, vengar latigazos y liberar amadas.",
       "imdbRating": "8.4 IMDb",
-      "image": "https://pics.filmaffinity.com/Django_desencadenado-268392705-large.jpg",
+      "image": "https://los40.com.mx/los40/imagenes/2019/08/24/actualidad/1566603825_746364_1566604127_gigante_normal.jpg",
       "urlEspañol": "",
       "urlIngles": "",
       "response": "publicada",
@@ -179,25 +187,6 @@
       "urlIngles": "",
       "response": "publicada",
       "id": 9,
-      "favorite": false
-    },
-    {
-      "title": "Django Unchained",
-      "year": "2012",
-      "rated": "5",
-      "runtime": "2h 45m",
-      "director": "Quentin Tarantino",
-      "writer": "",
-      "category": "acción",
-      "actors": "sagsag",
-      "language": "Español",
-      "synopsis": "Cuenta la historia de un esclavo liberado (Jamie Foxx) que sacrifica su vida al loable empeño de limpiar afrentas, vengar latigazos y liberar amadas.",
-      "imdbRating": "8.4 IMDb",
-      "image": "https://pics.filmaffinity.com/Django_desencadenado-268392705-large.jpg",
-      "urlEspañol": "",
-      "urlIngles": "",
-      "response": "publicada",
-      "id": 10,
       "favorite": false
     }
   ]
